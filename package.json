@@ -1,0 +1,36 @@
+{
+    "name": "jquery.responsivetext",
+    "title": "jQuery Responsivetext",
+    "description": "jQuery Responsivetext is a plugin that replaces text (and markup) inside nodes depending on the browser window size.",
+    "version": "0.0.1",
+    "homepage": "https://github.com/randomknowledge/jquery-responsivetext",
+    "author": {
+        "name": "Florian Finke",
+        "email": "flo@randomknowledge.org",
+        "url": "https://github.com/randomknowledge/"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/randomknowledge/jquery-responsivetext.git"
+    },
+    "bugs": {
+        "url": "https://github.com/randomknowledge/jquery-responsivetext/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/randomknowledge/jquery-responsivetext/master/LICENSE.txt"
+        }
+    ],
+    "main": "dist/jquery.responsivetext.min.js",
+    "engines": {
+        "node": ">=0.8"
+    },
+    "devDependencies": {
+        "grunt-cli": "~0.1.7",
+        "grunt": "~0.4.1",
+        "grunt-contrib-uglify": "~0.2.0",
+        "grunt-contrib-jshint": "~0.3.0"
+    },
+    "keywords": []
+}

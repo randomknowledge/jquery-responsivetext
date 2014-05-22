@@ -1,0 +1,25 @@
+{
+    "name": "jquery.responsivetext",
+    "homepage": "https://github.com/randomknowledge/jquery-responsivetext",
+    "authors": [
+        "Florian Finke"
+    ],
+    "description": "jQuery Responsivetext is a plugin that replaces text (and markup) inside nodes depending on the browser window size.",
+    "main": "src/jquery.responsivetext.js",
+    "moduleType": [
+        "globals"
+    ],
+    "keywords": [
+        "jquery",
+        "plugin",
+        "responsive",
+        "html5",
+        "css3"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ]
+}
