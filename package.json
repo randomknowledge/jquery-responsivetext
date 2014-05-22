@@ -2,7 +2,7 @@
     "name": "jquery.responsivetext",
     "title": "jQuery Responsivetext",
     "description": "jQuery Responsivetext is a plugin that replaces text (and markup) inside nodes depending on the browser window size.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "homepage": "https://github.com/randomknowledge/jquery-responsivetext",
     "author": {
         "name": "Florian Finke",
