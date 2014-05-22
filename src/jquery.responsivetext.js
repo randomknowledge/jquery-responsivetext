@@ -8,7 +8,7 @@
  * Licensed under the MIT License
  * http://opensource.org/licenses/MIT
  *
- * @version         0.0.1
+ * @version         0.0.2
  * @since           2013.07.04
  * @author          Florian Finke
  * @homepage        https://github.com/randomknowledge/jquery-responsivetext
