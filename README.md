@@ -1,5 +1,6 @@
-jQuery Responsivetext - a responsive text plugin
-====
+# jQuery Responsivetext
+### a responsive text plugin
+
 jQuery Responsivetext is a plugin that replaces text (and markup)
 inside nodes depending on the browser window size.
 
@@ -28,4 +29,11 @@ $.responsiveText('start', {
     },
     delay: 300
 });
+```
+
+```css
+.responsive-text {
+	display: none;
+	speak: none;
+}
 ```
